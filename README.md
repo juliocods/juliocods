@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julio Ramírez</h1>
 <h3 align="center">Full Stack JavaScript Developer</h3>
-
+<p align="center">Comencé estudiando Ingeniería en computación donde tuve el primer encuentro con un lenguaje de programación (C++, luego me fui a vivir a Buenos Aires, Argentina e Inicié con un curso titulado "Codo a Codo" del gobierno de la ciudad enfocado en Java, para reforzar y en paralelo estuve cursando "La universidad de Java" un curso de udemy intensivo de Java EE, al finalizar decidí seguir indagando para seguir aprendiendo y me encontré con un Coding Bootcamp de Plataforma 5 el cual me pareció perfecto, un intensivo de mas de 800 hs de capacitación donde puedo convertirme en programador Full Stack y ademas resaltar el desarrollo de proyectos en grupo con Scrum</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
