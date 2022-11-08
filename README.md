@@ -5,7 +5,7 @@ I started studying Computer Engineering where I had the first encounter with a p
 
 <h3 align="left">Portfolio</h3>
 <p align="left">
-<a href="https://twitter.com/juliocodes89" target="blank">Portfolio</a>
+<a href="https://www.julicodes.com.ar" target="_blank">www.julicodes.com.ar</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
