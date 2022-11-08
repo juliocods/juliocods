@@ -3,6 +3,11 @@
 <p align="center">
 I started studying Computer Engineering where I had the first encounter with a programming language (C++), then I went to live in Buenos Aires, Argentina and I started with a course entitled "Codo a Codo" from the city government focused on Java, to reinforce and in parallel I was studying "The University of Java" an intensive Java EE udemy course, at the end I decided to continue investigating to continue learning and I found a Platform 5 Coding Bootcamp which seemed perfect to me, an intensive of more than 800 hs of training where I can become a Full Stack programmer and also highlight the development of group projects with Scrum</p>
 
+<h3 align="left">Portfolio</h3>
+<p align="left">
+<a href="https://twitter.com/juliocodes89" target="blank">Portfolio</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juliocodes89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juliocodes89" height="30" width="40" /></a>
